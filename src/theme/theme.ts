@@ -25,6 +25,7 @@ export const theme = createTheme({
         ...palette,
         primary: palette.greenPrimary,
         primaryPurple: palette.purplePrimary,
+        primaryContrast: palette.white,
 
         buttonPrimary: palette.purplePrimary,
 
