@@ -15,6 +15,14 @@ function App() {
 
         <Text> Testando primeiro componente</Text>
         <Button title="Teste" marginHorizontal="s10"/>
+        <Button disabled title="Teste" marginHorizontal="s10"/>
+        <Button loading title="Teste" marginHorizontal="s10"/>
+        <Button preset="outline" title="Teste" marginHorizontal="s10"/>
+        <Button title="Teste" marginHorizontal="s10"/>
+        
+
+
+
 
       </SafeAreaView>
     </ThemeProvider>
